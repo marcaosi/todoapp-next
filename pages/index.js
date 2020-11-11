@@ -34,7 +34,8 @@ function Home (){
             <div className="row">
                 <div className="col">
                     <h1>ToDo App.</h1>
-                    <p>This app was developed using NextJS</p>
+                    <p>This app was developed using NextJS! <br /><small>Thank you for using!</small></p>
+                    
                 </div>
             </div>
             <div className="row justify-content-center text-center">
